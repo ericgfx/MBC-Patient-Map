@@ -1,0 +1,147 @@
+%!Adobe-FontList 1.17
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Bd
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold
+MenuName:HelveticaNeueLT Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 75 Bold
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28240
+FileModTime:1052752664
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold
+NameArray:0,Mac,4,Helvetica Neue LT Std 75 Bold
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdIt
+FamilyName:Helvetica Neue LT Std
+StyleName:76 Bold Italic
+MenuName:HelveticaNeueLT Std
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue LT Std 76 Bold Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-BdIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28712
+FileModTime:1052752664
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Ital
+NameArray:0,Mac,4,Helvetica Neue LT Std 76 Bold Italic
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Lt
+FamilyName:Helvetica Neue LT Std
+StyleName:45 Light
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 45 Light
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28120
+FileModTime:1052752664
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt
+NameArray:0,Mac,4,Helvetica Neue LT Std 45 Light
+NameArray:0,Win,1,HelveticaNeueLT Std Lt
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtIt
+FamilyName:Helvetica Neue LT Std
+StyleName:46 Light Italic
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue LT Std 46 Light Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-LtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28628
+FileModTime:1052752664
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt Ital
+NameArray:0,Mac,4,Helvetica Neue LT Std 46 Light Italic
+NameArray:0,Win,1,HelveticaNeueLT Std Lt
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1386609329
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ZapfDingbatsITC
+FamilyName:Zapf Dingbats
+StyleName:Regular
+MenuName:Zapf Dingbats
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Zapf Dingbats
+WritingScript:Roman
+OutlineFileName:\ZapfDingbats.ttf
+DataFormat:sfntData
+FileLength:154132
+FileModTime:1410277992
+NameArray:0,Mac,4,Zapf Dingbats
+%EndFont
+
